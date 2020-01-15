@@ -88,4 +88,4 @@ Que el alumno obtenga los conocimientos y habilidades necesarios para poder impl
 
 Computadora con Python instalado
 
-<img src="https://github.com/edavgaun/Inteligencia-de-negocios/blob/master/img/python.jpg" width=700>
+<img src="https://github.com/edavgaun/Inteligencia-de-negocios/blob/master/img/logo.png" width=400>
