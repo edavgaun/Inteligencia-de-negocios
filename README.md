@@ -77,6 +77,15 @@ Que el alumno obtenga los conocimientos y habilidades necesarios para poder impl
 
 ## Libro de Texto
 
+“Learning Python”, Mark Lutz, O’Reilly, 2009, 4 ed., Beijing • Cambridge • Farnham • Köln • Sebastopol • Taipei • Tokyo
+
+“Python crash course”, Eric Mattes, No starch press, 2016, 9th ed., San Francisco.
+
+“Practical Programming”, Paul Gries, The Pragmatic Bookshelf, 2017, 1st ed., North Carolina, 
+
+
 ## Material requerido para la clase
 
-## Políticas
+Computadora con Python instalado
+
+<img src="https://github.com/edavgaun/Inteligencia-de-negocios/blob/master/img/python.jpg" width=700>
