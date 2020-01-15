@@ -22,33 +22,22 @@ Que el alumno obtenga los conocimientos y habilidades necesarios para poder impl
   En caso de alguna situación extraordinaria se deberá platicarlo con el profesor.
 
   ### Temario
-    **1. Introducción al Pensamiento Analítico de Datos**
+   **1. Introducción al Pensamiento Analítico de Datos**
         1.1 Historia dela Ciencia de Datos
-
         1.2 Ecosistema de herramientas en la Ciencia de Datos
-
         1.3 Casos de uso de la ciencia de datos
 
 
-**2. Problemas de Negocio y Soluciones de Ciencia de Datos**
-
-2.1 Ciencia de datos en el mercado de servicios
-
-2.1.1 Telecomunicaciones
-
-2.1.2 IT
-
-2.1.3 Entretenimiento
-
-2.1.4 Transporte
-
-2.2 Ciencia de datos en el mercado manufacturero
-
-2.2.1 Automotriz
-
-2.2.2 Electrodomésticos
-
-2.3 Internet de las Cosas (IoT)
+   **2. Problemas de Negocio y Soluciones de Ciencia de Datos**
+        2.1 Ciencia de datos en el mercado de servicios
+                2.1.1 Telecomunicaciones
+                2.1.2 IT
+                2.1.3 Entretenimiento
+                2.1.4 Transporte
+        2.2 Ciencia de datos en el mercado manufacturero
+                2.2.1 Automotriz
+                2.2.2 Electrodomésticos
+        2.3 Internet de las Cosas (IoT)
 
 
 **3. Introducción al Análisis de Datos**
