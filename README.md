@@ -3,10 +3,7 @@
 ## Introducción
 La **Ciencia de Datos** es un area de conocimiento de **reciente creación** y que esta en **constante cambio**. Sus aplicaciones pueden ser muy diversas. Es en este contexto, en el que se espera implementar el conjunto de herramientas disponibles dentro de la Ciencia de datos para poder agregar valor a un negocio.
 
-![](https://github.com/edavgaun/Inteligencia-de-negocios/blob/master/img/datascience.png)
-
-
-<img src="https://github.com/edavgaun/Inteligencia-de-negocios/blob/master/img/datascience.png" width=100>
+<img src="https://github.com/edavgaun/Inteligencia-de-negocios/blob/master/img/datascience.png" width=400>
 
 
 
