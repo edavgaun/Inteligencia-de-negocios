@@ -13,11 +13,11 @@ Que el alumno obtenga los conocimientos y habilidades necesarios para poder impl
 
 ## Estructura del curso
 
-## Evaluación
+  ### Evaluación
 
-## Absentismo
+  ### Absentismo
 
-## Temario
+  ### Temario
 
 ## Presentaciones
 
