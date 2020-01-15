@@ -23,12 +23,14 @@ Que el alumno obtenga los conocimientos y habilidades necesarios para poder impl
 
   ### Temario
    **1. Introducción al Pensamiento Analítico de Datos**
+   
         1.1 Historia dela Ciencia de Datos
         1.2 Ecosistema de herramientas en la Ciencia de Datos
         1.3 Casos de uso de la ciencia de datos
 
 
    **2. Problemas de Negocio y Soluciones de Ciencia de Datos**
+   
         2.1 Ciencia de datos en el mercado de servicios
                 2.1.1 Telecomunicaciones
                 2.1.2 IT
