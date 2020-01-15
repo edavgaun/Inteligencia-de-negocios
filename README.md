@@ -42,45 +42,32 @@ Que el alumno obtenga los conocimientos y habilidades necesarios para poder impl
         2.3 Internet de las Cosas (IoT)
 
 
-**3. Introducción al Análisis de Datos**
+   **3. Introducción al Análisis de Datos**
 
-3.1 Introducción a los tipos de datos.
-
-3.1.1 Datos Estructurados
-
-3.1.2 Datos No Estructurados
-
-3.2 Introducción a R/Python
-
-3.3 Introducción a los dataframes
-
-3.4 Funciones básicas de un dataframe
-
-3.5 Limpieza de Datos
-
-3.6 Tipos de Visualización
-
-3.7 Visualización en R/Python
+        3.1 Introducción a los tipos de datos.
+                3.1.1 Datos Estructurados
+                3.1.2 Datos No Estructurados
+        3.2 Introducción a R/Python
+        3.3 Introducción a los dataframes
+        3.4 Funciones básicas de un dataframe
+        3.5 Limpieza de Datos
+        3.6 Tipos de Visualización
+        3.7 Visualización en R/Python
 
 
-**4. Herramientas de Inteligencia de Negocios.**
+   **4. Herramientas de Inteligencia de Negocios.**
 
-4.1 Gobernanza de Datos
+        4.1 Gobernanza de Datos
+        4.2 Ciclo de vida del dato
 
-4.2 Ciclo de vida del dato
+   **5. Herramientas de análisis de datos (Excel, ML)**
 
+   **6. Herramientas de visualización de datos**
 
-**5. Herramientas de análisis de datos (Excel, ML)**
+        6.1 Tableau
+        6.2 Power BI
 
-
-**6. Herramientas de visualización de datos**
-
-6.1 Tableau
-
-6.2 Power BI
-
-
-**7. Proyecto de Inteligencia de Negocios (Todo el curso)**
+   **7. Proyecto de Inteligencia de Negocios (Todo el curso)**
 
 ## Presentaciones
 
