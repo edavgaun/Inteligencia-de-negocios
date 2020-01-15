@@ -1,7 +1,7 @@
 # Inteligencia de Negocios
 
 ## Introducción
-La **Ciencia de Datos** es un area de conocimiento de **reciente creación** y que esta en **constante cambio**. Sus aplicaciones son muy diversas. Es este contexto en el que el se implementarán un conjunto de herramientas dentro de la Ciencia de datos para agregar valor a un negocio.
+La **Ciencia de Datos** es un area de conocimiento de **reciente creación** y que esta en **constante cambio**. Sus aplicaciones son muy diversas. Es en este contexto, en el que se espera implementar el conjunto de herramientas disponibles dentro de la Ciencia de datos para agregar valor a un negocio.
 
 ## Objetivo
 
