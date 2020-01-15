@@ -6,6 +6,8 @@ La **Ciencia de Datos** es un area de conocimiento de **reciente creación** y q
 ![](https://github.com/edavgaun/Inteligencia-de-negocios/blob/master/img/datascience.png|width=100)
 
 
+<img src=https://github.com/edavgaun/Inteligencia-de-negocios/blob/master/img/datascience.png width=100)
+
 
 
 ## Objetivo
