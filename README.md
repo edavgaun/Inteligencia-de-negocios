@@ -1,25 +1,25 @@
 # Inteligencia de Negocios
 
-Introducción
+## Introducción
 
-Objetivo
+## Objetivo
 
-Estructura del curso
+## Estructura del curso
 
-Evaluación
+## Evaluación
 
-Absentismo
+## Absentismo
 
-Temario
+## Temario
 
-Presentaciones
+## Presentaciones
 
-Ejercicios
+## Ejercicios
 
-Tareas
+## Tareas
 
-Libro de Texto
+## Libro de Texto
 
-Material requerido para la clase
+## Material requerido para la clase
 
-Políticas
+## Políticas
