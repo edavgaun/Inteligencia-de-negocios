@@ -1,4 +1,4 @@
-#Inteligencia de Negocios
+# Inteligencia de Negocios
 
 Introducción
 
