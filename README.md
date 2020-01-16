@@ -64,9 +64,6 @@ Que el alumno obtenga los conocimientos y habilidades necesarios para poder impl
 
    **6. Herramientas de visualización de datos**
 
-        6.1 Tableau
-        6.2 Power BI
-
    **7. Proyecto de Inteligencia de Negocios (Todo el curso)**
 
 ## Presentaciones
