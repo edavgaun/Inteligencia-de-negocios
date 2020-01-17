@@ -14,6 +14,14 @@ Que el alumno obtenga los conocimientos y habilidades necesarios para poder impl
 ## Estructura del curso
 
   ### Evaluación
+  
+  60% Proyecto de propuesta de negocio
+    - Seleccionar una base de datos (Kraggle)
+    - Explicar las variables seleccionadas
+    - Metodología usada para el análisis
+    - Principales hallazgos
+    - Conclusiones
+  40% Tareas y participación
 
   ### Absentismo
   
@@ -65,12 +73,6 @@ Que el alumno obtenga los conocimientos y habilidades necesarios para poder impl
    **6. Herramientas de visualización de datos**
 
    **7. Proyecto de Inteligencia de Negocios (Todo el curso)**
-
-## Presentaciones
-
-## Ejercicios
-
-## Tareas
 
 ## Libro de Texto
 
