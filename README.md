@@ -16,11 +16,13 @@ Que el alumno obtenga los conocimientos y habilidades necesarios para poder impl
   ### Evaluación
   
   60% Proyecto de propuesta de negocio
+  
     - Seleccionar una base de datos (Kraggle)
     - Explicar las variables seleccionadas
     - Metodología usada para el análisis
     - Principales hallazgos
     - Conclusiones
+   
   40% Tareas y participación
 
   ### Absentismo
