@@ -15,7 +15,7 @@ Que el alumno obtenga los conocimientos y habilidades necesarios para poder impl
 
   ### Evaluación
   
-  60% Proyecto de propuesta de negocio
+  30% Proyecto de propuesta de negocio
   
     - Seleccionar una base de datos (Kraggle)
     - Explicar las variables seleccionadas
@@ -23,7 +23,9 @@ Que el alumno obtenga los conocimientos y habilidades necesarios para poder impl
     - Principales hallazgos
     - Conclusiones
    
-  40% Tareas y participación
+  40% Tareas y datacamp
+  
+  30% Examenes
 
   ### Absentismo
   
