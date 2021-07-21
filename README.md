@@ -17,7 +17,8 @@ Que el alumno obtenga los conocimientos y habilidades necesarios para poder impl
   
   30% Proyecto de propuesta de negocio
   
-    - Seleccionar una base de datos (Kraggle)
+    - Seleccionar una base de datos (Kraggle, o la fuente que gusten previa autorización)
+    - Explicar el objetivo de análisis
     - Explicar las variables seleccionadas
     - Metodología usada para el análisis
     - Principales hallazgos
