@@ -75,7 +75,7 @@ Que el alumno obtenga los conocimientos y habilidades necesarios para poder impl
         4.1 Gobernanza de Datos
         4.2 Ciclo de vida del dato
 
-   **5. Herramientas de análisis de datos (Excel, ML)**
+   **5. Herramientas de análisis de datos (Python, ML)**
 
    **6. Herramientas de visualización de datos**
 
